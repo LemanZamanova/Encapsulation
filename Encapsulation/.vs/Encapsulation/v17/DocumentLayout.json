@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVA\\Desktop\\Code Task\\Encapsulation\\Encapsulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABC4E50-B1ED-4ECB-BB67-7513094866A5}|Encapsulation\\Encapsulation.csproj|c:\\users\\lenova\\desktop\\code task\\encapsulation\\encapsulation\\encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABC4E50-B1ED-4ECB-BB67-7513094866A5}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABC4E50-B1ED-4ECB-BB67-7513094866A5}|Encapsulation\\Encapsulation.csproj|c:\\users\\lenova\\desktop\\code task\\encapsulation\\encapsulation\\encapsulation\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABC4E50-B1ED-4ECB-BB67-7513094866A5}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVA\\Desktop\\Code Task\\Encapsulation\\Encapsulation\\Encapsulation\\Product.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\Product.cs",
+              "ToolTip": "C:\\Users\\LENOVA\\Desktop\\Code Task\\Encapsulation\\Encapsulation\\Encapsulation\\Product.cs",
+              "RelativeToolTip": "Encapsulation\\Product.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAcwHsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T21:29:23.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVA\\Desktop\\Code Task\\Encapsulation\\Encapsulation\\Encapsulation\\Program.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVA\\Desktop\\Code Task\\Encapsulation\\Encapsulation\\Encapsulation\\Program.cs",
+              "RelativeToolTip": "Encapsulation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T21:28:23.142Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

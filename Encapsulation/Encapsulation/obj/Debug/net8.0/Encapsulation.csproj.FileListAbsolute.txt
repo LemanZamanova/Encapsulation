@@ -1,0 +1,14 @@
+C:\Users\LENOVA\Desktop\Code Task\Encapsulation\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.exe
+C:\Users\LENOVA\Desktop\Code Task\Encapsulation\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.deps.json
+C:\Users\LENOVA\Desktop\Code Task\Encapsulation\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.runtimeconfig.json
+C:\Users\LENOVA\Desktop\Code Task\Encapsulation\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.dll
+C:\Users\LENOVA\Desktop\Code Task\Encapsulation\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.pdb
+C:\Users\LENOVA\Desktop\Code Task\Encapsulation\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVA\Desktop\Code Task\Encapsulation\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\LENOVA\Desktop\Code Task\Encapsulation\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.AssemblyInfo.cs
+C:\Users\LENOVA\Desktop\Code Task\Encapsulation\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\LENOVA\Desktop\Code Task\Encapsulation\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.dll
+C:\Users\LENOVA\Desktop\Code Task\Encapsulation\Encapsulation\Encapsulation\obj\Debug\net8.0\refint\Encapsulation.dll
+C:\Users\LENOVA\Desktop\Code Task\Encapsulation\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.pdb
+C:\Users\LENOVA\Desktop\Code Task\Encapsulation\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.genruntimeconfig.cache
+C:\Users\LENOVA\Desktop\Code Task\Encapsulation\Encapsulation\Encapsulation\obj\Debug\net8.0\ref\Encapsulation.dll
