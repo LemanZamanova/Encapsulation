@@ -113,17 +113,7 @@
                 }
             }
         }
-        public double Income
-        {
-            get
-            {
-                return _income;
-            }
-            set
-            {
-                _income = value;
-            }
-        }
+
         public void GetInfo()
         {
             Console.WriteLine(string.Concat("Id: ", _id));
